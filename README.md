@@ -3,13 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meghana-12" alt="meghana-12" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **MERN Stack, AI**
 
 - 📫 How to reach me **meghana@iitbhilai.ac.in**
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/varanasi-meghana-1671b1192/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/varanasi-meghana-1671b1192/" height="30" width="40" /></a>
+<a href="https://kaggle.com/varanasimeghana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="varanasimeghana" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/meghanacc12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="meghanacc12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/meghana_cosmos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="meghana_cosmos" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/meghana12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="meghana12" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/darkmu10t" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="darkmu10t" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@varanasi21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerearth.svg" alt="@varanasi21" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -18,4 +24,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meghana-12&layout=compact" alt="meghana-12" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meghana-12&show_icons=true" alt="meghana-12" /></p>
-
